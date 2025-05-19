@@ -13,54 +13,66 @@ https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/List_Implementatio
 1b. Array List programs
 1. Write a java program for getting different colors through ArrayList interface and search whether
 the color "Red" is available or not
-2. Write a java program for getting different colors through ArrayList interface and remove the
-2nd element and color "Blue" from the ArrayList
-3. Write a java program for getting different colors through ArrayList interface and sort them
-using Collections.sort( ArrayListObj)
-4. Write a java program for getting different colors through ArrayList interface and extract the
-elements 1st and 2nd from the ArrayList object by using SubList()
-5. Write a java program for getting different colors through ArrayList interface and delete nth
-element from the ArrayList object by using remove by index
 
 The output for 1b1 :-                                                     
 https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/List_Implementation/1b1.png
 
+2. Write a java program for getting different colors through ArrayList interface and remove the
+2nd element and color "Blue" from the ArrayList
+
 The output for 1b2 :-                                          
 https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/List_Implementation/1b2.png
 
+3. Write a java program for getting different colors through ArrayList interface and sort them
+using Collections.sort( ArrayListObj)
 The output for 1b3 :-                                                    
 https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/List_Implementation/1b3.png
 
+
+4. Write a java program for getting different colors through ArrayList interface and extract the
+elements 1st and 2nd from the ArrayList object by using SubList()
 The output for 1b4 :-                                                   
 https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/List_Implementation/1b4.png
+
+
+5. Write a java program for getting different colors through ArrayList interface and delete nth
+element from the ArrayList object by using remove by index
 
 The output for 1b5 :-                                                            
 https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/List_Implementation/1b5.png
 
 
+
+
+
+
+
 1c. Linked List Programs
 1. Write a Java program to iterate through all elements in a linked list starting at the
 specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
-2. Write a Java program to iterate a linked list in reverse order (using
-objlist.descendingIterator())
-3. Write a Java program to insert the specified element at the end of a linked list.( using
-l_listobj.offerLast("Pink"))
-4. Write a Java program to display elements and their positions in a linked list ( using
-l_listobj.get(p) )
-5. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
-Collections.swap(l_list, 0, 2))
-
 The output for 1c1 :-                                                           
 https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/List_Implementation/1c1.png
 
+
+3. Write a Java program to iterate a linked list in reverse order (using
+objlist.descendingIterator())
 The output for 1c2 :-                                                            
 https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/List_Implementation/1c2.png
 
+
+5. Write a Java program to insert the specified element at the end of a linked list.( using
+l_listobj.offerLast("Pink"))
 The output for 1c3 :-                                                             
 https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/List_Implementation/1c3.png
 
+
+7. Write a Java program to display elements and their positions in a linked list ( using
+l_listobj.get(p) )
 The output for 1c4 :-                                                               
 https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/List_Implementation/1c4.png
+
+9. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
+Collections.swap(l_list, 0, 2))
 
 The output for 1c5 :-                                                              
 https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/List_Implementation/1c5.png
