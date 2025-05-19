@@ -1,5 +1,5 @@
 The output for 1a :-                                               
-https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/List_Implementation/1a.png
+https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/List_Implementation/1a.png                                                        
 https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/List_Implementation/1a1.png
 
 The output for 1b1 :-                                                     
