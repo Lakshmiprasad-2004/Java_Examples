@@ -214,6 +214,7 @@ button( through HTML) to display the message by greeting Welcome back your name 
 visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.
 
 Output for 6b :-
+https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/ServletDemo/ccount_LP.png
 https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/ServletDemo/LP6.png
 
 6c. Build a servlet program to check the given number is prime number or not using HTML with step
@@ -246,14 +247,14 @@ new coffee product into it [Create a table coffee with fields ( id,coffee_name,p
 JSP to get the fields and display the results respectively
 
 The Outout for 8a :-
-https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/JDBC_8/8a.png
+https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/JDBC8/8A/8Acoffe.png
 
 8b. Read all the existing records from the table coffee which is from the database test and update an
 existing coffee product in the table with its id. [Create a table coffee with fields
 ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
 
 The Outout for 8b :-
-https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/JDBC_8/8b.png
+https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/JDBC8/8B/8b.png
 
 8c. Develop a JDBC project using JSP to append the fields empno, empname and basicsalary
 into the table Emp of the database Employee by getting the fields through keyboard and
@@ -261,7 +262,7 @@ Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary
 HTML and JSP to get the fields and display the results respectively
 
 The Outout for 8c :-
-https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/JDBC_8/8c_LP.png
+https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/JDBC8/8C/8c_LP.png
 
 
 8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into
@@ -269,7 +270,7 @@ the table Emp of the database Employee using HTML and JSP to get the fields and 
 results respectively
 
 The Outout for 8d :-
-https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/JDBC_8/8d_LP.png
+https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/JDBC8/8D/8d_LP.png
 ___
 
 
@@ -278,7 +279,7 @@ an existing coffee product from the table with its id and display the rest of th
 HTML and JSP to get the field and display the results respectively
 
 The Outout for 9a :-
-https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/JDBC_9/9a.png
+https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/JDBC9/9A/9a.png
 
 
 9b. Read all the existing records from the table coffee which is from the database test and query
@@ -286,7 +287,7 @@ coffee name starting with ‘D’ in the table using HTML and JSP to get the fie
 results respectively
 
 The Outout for 9b :-
-https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/JDBC_9/9b.png
+https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/JDBC9/9B/9b.png
 
 9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary
 into the table Emp of the database Employee by getting the fields through keyboard and Generate
@@ -294,7 +295,7 @@ the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using 
 to get the field and display the results respectively
 
 The Outout for 9c :-
-https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/JDBC_9/9c_LP.png
+https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/JDBC9/9C/9c_LP.png
 
 
 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database
@@ -302,4 +303,4 @@ Employee by getting the name starting with ‘S’ through keyboard and Generate
 follows using HTML and JSP to get the field and display the results respectively
 
 The Outout for 9d :-
-https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/JDBC_9/9d_LP.png
+https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/JDBC9/9D/9d.png
