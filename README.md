@@ -54,24 +54,24 @@ The output for 1c1 :-
 https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/List_Implementation/1c1.png
 
 
-3. Write a Java program to iterate a linked list in reverse order (using
+2. Write a Java program to iterate a linked list in reverse order (using
 objlist.descendingIterator())
 The output for 1c2 :-                                                            
 https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/List_Implementation/1c2.png
 
 
-5. Write a Java program to insert the specified element at the end of a linked list.( using
+3. Write a Java program to insert the specified element at the end of a linked list.( using
 l_listobj.offerLast("Pink"))
 The output for 1c3 :-                                                             
 https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/List_Implementation/1c3.png
 
 
-7. Write a Java program to display elements and their positions in a linked list ( using
+4. Write a Java program to display elements and their positions in a linked list ( using
 l_listobj.get(p) )
 The output for 1c4 :-                                                               
 https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/List_Implementation/1c4.png
 
-9. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
+5. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
 Collections.swap(l_list, 0, 2))
 
 The output for 1c5 :-                                                              
@@ -116,7 +116,7 @@ Output for 3a :-
 https://github.com/Lakshmiprasad-2004/Java_Examples/blob/main/StringHandling/3a.png
 
 
-3b. String Exercise progams
+3b. String Exercise progams                                                                        
 Q1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
 defined function isNullOrEmpty().                                                                        
 Q2. Write a Java Program for Counting how many times a substring appears in a main string
